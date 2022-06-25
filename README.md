@@ -1,15 +1,15 @@
-##  👋 Hi there,   I'm *Anandu Krishna V V*   🙋‍♂
+##  👋 Hi there,   I'm *Anandu Krishna V V*   
 
 <br />
 
 ### ->I'm a B-Tech CSE Student
 ### ->Web Dev
-### ->Tech enthusiast👾👾!!
+### ->Tech enthusiast👾!!
 
 <br />
 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2021 Goals: Learn new things and contribute more to Open Source projects
+- 🥅 2022 Goals: Learn new things and contribute more to Open Source projects
 - ⚡ Fun fact: I love to read and play cricket
 
 <br />
