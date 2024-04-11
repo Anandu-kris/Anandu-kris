@@ -20,12 +20,12 @@
 <img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" />
 <img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" />
 <img align="left" alt="Sass" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/sass/sass.png" />
-<img align="left" alt="Tailwind CSS" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/tailwindcss/tailwindcss.png" />
 <img align="left" alt="Bootstrap" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/bootstrap/bootstrap.png" />
-<img align="left" alt="Material UI" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/material-ui/material-ui.png" />
 <img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" />
 <img align="left" alt="Redux" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/redux/redux.png" />
+<br />
+<br />
 <br />
 <br />
 
@@ -51,10 +51,13 @@
 <img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" />
 <img align="left" alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/terminal/terminal.png" />
+<br />
+<br />
+
 
 ### Connect with me:
 
-[<img align="left" alt="LinkedIn" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/linkedin/linkedin.png" />](https://www.linkedin.com/in/)
-[<img align="left" alt="Twitter" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/twitter/twitter.png" />](https://twitter.com/)
-[<img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png" />](https://github.com/)
-[<img align="left" alt="Instagram" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/instagram/instagram.png" />](https://www.instagram.com/)
+<a href="https://www.linkedin.com/in/your-linkedin-profile"><img src="https://raw.githubusercontent.com/github/explore/master/topics/linkedin/linkedin.png" alt="LinkedIn" width="30px"></a>
+<a href="https://twitter.com/your-twitter-profile"><img src="https://raw.githubusercontent.com/github/explore/master/topics/twitter/twitter.png" alt="Twitter" width="30px"></a>
+<a href="https://github.com/your-github-profile"><img src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png" alt="GitHub" width="30px"></a>
+<a href="https://www.instagram.com/your-instagram-profile"><img src="https://raw.githubusercontent.com/github/explore/master/topics/instagram/instagram.png" alt="Instagram" width="30px"></a>
