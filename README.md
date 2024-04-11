@@ -26,8 +26,7 @@
 <img align="left" alt="Redux" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/redux/redux.png" />
 <br />
 <br />
-<br />
-<br />
+
 
 #### Backend Development:
 <img align="left" alt="Node.js" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png" />
