@@ -18,7 +18,7 @@
 
 ### 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anandu%20Krishna-0e76a8?style=flat&logo=linkedin)](https://linkedin.com/in/anandu-krishna-v-v)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anandu%20Krishna-0e76a8?style=flat&logo=linkedin)](https://www.linkedin.com/in/anandu-krishna-v-v-1aa03b195/)
 [![Twitter](https://img.shields.io/badge/Twitter-@anandu_kri_sh-1DA1F2?style=flat&logo=twitter)](https://twitter.com/anandu_kri_sh)
 
 ---
