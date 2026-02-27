@@ -52,26 +52,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anandu-kris&show_icons=true&theme=github_dark" alt="anandu-kris stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandu-kris&layout=compact&theme=github_dark" alt="Top Languages" height="180" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=anandu-kris&theme=dark&hide_border=true" alt="Streak Stats" />
-</div>
-
----
-
-### 🏆 Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anandu-kris&theme=onedark&margin-w=15&no-bg=true&no-frame=true" />
-</p>
-
----
-
 ### 📫 Let's Collaborate!
 
 Whether it's building dashboards, real-time systems, or dev tooling—I'm always excited to collaborate on meaningful projects. Feel free to reach out through [LinkedIn](https://linkedin.com/in/anandu-krishna-v-v) or open an issue!
