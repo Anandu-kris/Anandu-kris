@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./portrait.png" width="100%" alt="Terminal window with an ASCII portrait of Anandu Krishna V V and a summary of his role and tech stack" />
+<img src="./selfPortrait.png" width="100%" alt="Terminal window with an ASCII portrait of Anandu Krishna V V and a summary of his role and tech stack" />
 
 <br/>
 
