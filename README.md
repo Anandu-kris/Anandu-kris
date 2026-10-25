@@ -27,7 +27,7 @@ anandu@github:~$ cat about.txt
   name        Anandu Krishna V V
   role        Software Developer
   builds      Dashboards, Full-stack platforms, Real-time systems
-  exploring   Next.js, Kubernetes, Cybersecurity
+  exploring   Next.js, Kubernetes, Cybersecurity, AI
   ask me      WebSockets, Developer tooling, Scalable UI
   off screen  Playing cricket
 
